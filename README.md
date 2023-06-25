@@ -2,14 +2,10 @@
 
 Halo! Saya seorang mahasiswa yang sedang menempuh pendidikan D4 di Politeknik Harapan Bersama Tegal. Saya juga merupakan seorang pengembang perangkat lunak sumber terbuka dengan minat khusus di bidang pengembangan aplikasi dan teknologi web. Saya memiliki keahlian dasar dalam bidang IT, perintah bash, setup server berbasis Linux, serta pemrograman berorientasi objek menggunakan beberapa bahasa pemrograman.
 
-## Bahasa Pemograman
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucingcoder&show_icons=true&theme=merko&bg_color=00000000)
 
-Berikut adalah beberapa teknologi dan bahasa pemrograman yang saya kuasai:
 
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) Saya memiliki pemahaman dalam pemrograman C++ untuk pengembangan perangkat lunak.
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) Saya telah menggunakan Java untuk mengembangkan aplikasi menggunakan JDK (Java Development Kit).
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) Saya juga memiliki keahlian dalam pemrograman menggunakan bahasa C# untuk mengembangkan aplikasi dengan .NET Framework.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) Saya memiliki pemahaman dalam pemrograman JavaScript untuk pengembangan aplikasi web.
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kucingcoder&theme=merko&bg_color=00000000)
 
 ## Alat Pengembangan
 
@@ -37,3 +33,4 @@ Selain itu, saya juga memiliki pengetahuan dan pengalaman dalam penggunaan beber
 ## Penutup
 
 Profil GitHub saya mencerminkan minat saya dalam pengembangan perangkat lunak sumber terbuka dan keahlian yang saya miliki dalam berbagai teknologi dan bahasa pemrograman. Dengan pemahaman dasar IT, penggunaan perintah bash, pengaturan server berbasis Linux, dan keahlian dalam berbagai bahasa pemrograman dan alat pengembangan, saya siap untuk berkontribusi dan belajar lebih banyak dalam proyek-proyek sumber terbuka.
+
