@@ -2,7 +2,7 @@
 
 Halo! Saya seorang mahasiswa yang sedang menempuh pendidikan D4 di Politeknik Harapan Bersama Tegal. Saya juga merupakan seorang pengembang perangkat lunak sumber terbuka dengan minat khusus di bidang pengembangan aplikasi dan teknologi web. Saya memiliki keahlian dasar dalam bidang IT, perintah bash, setup server berbasis Linux, serta pemrograman berorientasi objek menggunakan beberapa bahasa pemrograman.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucingcoder&show_icons=true&theme=merko&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kucingcoder&show_icons=true&theme=merko&bg_color=00000000)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kucingcoder&theme=merko&bg_color=00000000)
