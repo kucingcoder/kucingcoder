@@ -30,31 +30,40 @@ I work across frontend, backend, mobile, and desktop development — and I focus
 
 ## 🛠️ Tech Stack & Tools
 
-**🌐 Web Development**  
+**🌐 Web Development**
+
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)]() [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]() [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)]() [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)]() [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]() [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]() [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)]() [![Drogon](https://img.shields.io/badge/Drogon-006CFF?style=flat-square)]() [![Crow](https://img.shields.io/badge/Crow-2E2E2E?style=flat-square)]()
 
-**📱 Mobile Development**  
+**📱 Mobile Development**
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
 
-**🎮 Game Development**  
+**🎮 Game Development**
+
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)]()
 
-**🖥 Desktop Development**  
+**🖥 Desktop Development**
+
 [![wxWidgets](https://img.shields.io/badge/wxWidgets-2E2E2E?style=flat-square)]() [![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white)]() [![Guna UI](https://img.shields.io/badge/Guna_UI-3B3B3B?style=flat-square)]() [![Bunifu UI](https://img.shields.io/badge/Bunifu_UI-00B2FF?style=flat-square)]() [![FlatLaf](https://img.shields.io/badge/FlatLaf-00BCD4?style=flat-square)]()
 
-**🗃 Database**  
+**🗃 Database**
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
 
-**⚙️ DevOps & Tools**  
+**⚙️ DevOps & Tools**
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]() [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)]() [![WSL2](https://img.shields.io/badge/WSL2-2E2E2E?style=flat-square)]() [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)]() [![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-13AA52?style=flat-square)]() [![Inno Setup](https://img.shields.io/badge/Inno_Setup-000080?style=flat-square)]() [![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=flat-square&logo=unity&logoColor=white)]()
 
-**🧠 AI & Machine Learning**  
+**🧠 AI & Machine Learning**
+
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]() [![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=flat-square)]() [![Ultralytics](https://img.shields.io/badge/Ultralytics-2E2E2E?style=flat-square)]() [![Llama.cpp](https://img.shields.io/badge/Llama.cpp-333333?style=flat-square)]()
 
-**🎨 Design & 3D**  
+**🎨 Design & 3D**
+
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)]() [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)]() [![Substance 3D Painter](https://img.shields.io/badge/Substance_3D_Painter-FF7452?style=flat-square&logo=adobe&logoColor=white)]()
 
-**💻 Operating Systems**  
+**💻 Operating Systems**
+
 [![Windows](https://img.shields.io/badge/Windows_XP–11-0078D6?style=flat-square&logo=windows&logoColor=white)]() [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]() [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
 
 🧩 Full skillset: [https://mashanif.my.id/skills.html](https://mashanif.my.id/skills.html)
