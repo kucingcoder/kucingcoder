@@ -64,7 +64,8 @@ I work across frontend, backend, mobile, and desktop development — and I focus
 
 **💻 Operating Systems**
 
-[![Windows](https://img.shields.io/badge/Windows_XP–11-0078D6?style=flat-square&logo=windows&logoColor=white)]() [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]() [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows_XP–11-0078D6?style=flat-square&logo=windows&logoColor=white)]() [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]() [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]() [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
+
 
 🧩 Full skillset: [https://mashanif.my.id/skills.html](https://mashanif.my.id/skills.html)
 
