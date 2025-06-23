@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M. Ibrahim Hanif AKA kucingcoder!
+# 👋 Hi, I'm M. Ibrahim Hanif AKA kucingcoder
 
 [![Website](https://img.shields.io/badge/Website-mashanif.my.id-blue?style=flat-square&logo=google-chrome)](https://mashanif.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M.%20Ibrahim%20Hanif-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/m-ibrahim-hanif-883085259)
