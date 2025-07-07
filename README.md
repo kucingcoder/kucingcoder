@@ -16,13 +16,11 @@ I work across frontend, backend, mobile, and desktop development — and I focus
 
 ---
 
-## 🚀 Project Highlights
+## 🚀 Company / Organization Project Highlights
 
 | 🔧 Project               | 💡 Description                                                                 | 📌 Status       |
 |--------------------------|-------------------------------------------------------------------------------|-----------------|
 | **Rancangan Perkasa**    | Building supply store system: catalog, stock, sales, employees & reporting   | ✅ Completed     |
-| **Siakad SMK Bahari**    | School academic system: attendance, grades, PDF reports                      | ✅ Completed     |
-| **Easy Win Config**      | Open-source Windows tool: block updates, uninstall apps, DNS, privacy        | ✅ Completed     |
 | **Simpendi**             | University research management system with filter, CRUD, and document export | 🛠 In Progress   |
 | **Pegon AI**             | Pegon script preservation project: OCR, LLM, transliteration, mobile app     | 🛠 In Progress   |
 
