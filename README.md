@@ -1,5 +1,3 @@
-![snapedit_1750670230881](https://github.com/user-attachments/assets/67e53d32-93ff-4ce2-8739-3abac275518b)
-
 # 👋 Hi, I'm M. Ibrahim Hanif AKA kucingcoder
 
 [![Website](https://img.shields.io/badge/Website-mashanif.my.id-blue?style=flat-square&logo=google-chrome)](https://mashanif.my.id)
