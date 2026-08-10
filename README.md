@@ -1,10 +1,5 @@
 # 👋 Hi, I'm M. Ibrahim Hanif AKA kucingcoder
 
-[![Website](https://img.shields.io/badge/Website-mashanif.my.id-blue?style=flat-square&logo=google-chrome)](https://mashanif.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.%20Ibrahim%20Hanif-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/m-ibrahim-hanif-883085259)
-[![X (Twitter)](https://img.shields.io/badge/X-@krx__han-1DA1F2?style=flat-square&logo=twitter)](https://x.com/krx_han)
-[![Instagram](https://img.shields.io/badge/Instagram-@krx__han-E4405F?style=flat-square&logo=instagram)](https://instagram.com/krx_han)
-
 ---
 
 ## 👨‍💻 About Me
