@@ -16,18 +16,6 @@ I work across frontend, backend, mobile, and desktop development — and I focus
 
 ---
 
-## 🚀 Company / Organization Project Highlights
-
-| 🔧 Project               | 💡 Description                                                                 | 📌 Status       |
-|--------------------------|-------------------------------------------------------------------------------|-----------------|
-| **Rancangan Perkasa**    | Building supply store system: catalog, stock, sales, employees & reporting   | ✅ Completed     |
-| **Simpendi**             | University research management system with filter, CRUD, and document export | 🛠 In Progress   |
-| **Pegon AI**             | Pegon script preservation project: OCR, LLM, transliteration, mobile app     | 🛠 In Progress   |
-
-🔗 More projects: [https://mashanif.my.id/projects.html](https://mashanif.my.id/projects.html)
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 **🌐 Web Development**
@@ -65,24 +53,6 @@ I work across frontend, backend, mobile, and desktop development — and I focus
 **💻 Operating Systems**
 
 [![Windows](https://img.shields.io/badge/Windows_XP–11-0078D6?style=flat-square&logo=windows&logoColor=white)]() [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]() [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]() [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
-
-
-🧩 Full skillset: [https://mashanif.my.id/skills.html](https://mashanif.my.id/skills.html)
-
----
-
-## 📈 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kucingcoder&show_icons=true&theme=merko&bg_color=00000000)
-
----
-
-## 📫 Reach Me
-
-- 🌐 Website: [mashanif.my.id](https://mashanif.my.id)  
-- 💼 LinkedIn: [linkedin.com/in/m-ibrahim-hanif-883085259](https://www.linkedin.com/in/m-ibrahim-hanif-883085259)  
-- 🐦 X (Twitter): [@krx_han](https://x.com/krx_han)  
-- 📷 Instagram: [@krx_han](https://instagram.com/krx_han)
 
 ---
 
